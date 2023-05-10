@@ -2,7 +2,8 @@
 
 visit this piece at: https://mayav1s1ons.github.io/m0n4rch/
 
-!(https://github.com/mayav1s1ons/m0n4rch/blob/main/m0n4rch.png)
+
+![screenshot of the piece]()
 
 This composition is part of a series created in the live code-able video synth, Hydra (https://hydra.ojack.xyz/?sketch_id=ritchse_4). 
 
