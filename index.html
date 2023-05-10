@@ -1,14 +1,13 @@
 <canvas id="myCanvas" style="width:1800px; height:1110px;"></canvas>
 
-<!-- import the latest version of hydra synth-->
 <script src="https://unpkg.com/hydra-synth"></script>
 <script>
-  // create a new hydra-synth instance
+ 
   new window.Hydra({
     canvas: document.getElementById("myCanvas"),
     detectAudio: false
   })
-  // run some hydra code!
+ 
   noise(2.824, 0.017)
     .color(0.032, 1.137, 0.256)
     .hue(() => Math.sin(time / 13.888))
